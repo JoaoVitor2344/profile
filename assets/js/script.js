@@ -1,4 +1,4 @@
-$("#menu").load("/menu.html");
+$("#menu").load("menu.html");
 
 $("#btn-verificar" ).on("click", function() {
   window.location.href="proposta.html";
