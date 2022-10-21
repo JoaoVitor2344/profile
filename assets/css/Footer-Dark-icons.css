@@ -55,3 +55,22 @@
   border-radius: 50%;
 }
 
+.nome {
+  cursor: pointer;
+}
+
+#nome {
+  cursor: pointer;
+}
+
+.btn-green {
+  --bs-btn-bg: var(--green);
+  --bs-btn-hover-bg: var(--green2);
+}
+
+:root {
+  --green: #0d6244;
+  --green2: #041f16;
+  --dark: #1e2125;
+}
+
